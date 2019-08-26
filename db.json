@@ -1,0 +1,14 @@
+[
+      {
+        name: 'Antonio',
+        online: true
+      },
+      {
+        name: "Shanae",
+        online: false
+      },
+      {
+        name: "Shenelle",
+        online: false
+      }
+    ]
