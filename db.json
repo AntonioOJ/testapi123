@@ -2,16 +2,16 @@
     
       "obj": [
             {
-              name: "Antonio",
-              online: true
+              "name": "Antonio",
+              "online": true
             },
             {
-              name: "Shanae",
-              online: false
+              "name": "Shanae",
+              "online": false
             },
             {
-              name: "Shenelle",
-              online: false
+              "name": "Shenelle",
+              "online": false
             }
       ]
 }
