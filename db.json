@@ -1,5 +1,4 @@
 {
- [
             {
               "name": "Antonio",
               "online": true
@@ -12,5 +11,4 @@
               "name": "Shenelle",
               "online": false
             }
-      ]
 }
