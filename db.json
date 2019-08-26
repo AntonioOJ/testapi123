@@ -1,6 +1,4 @@
-{
-    
-      "obj": [
+ [
             {
               "name": "Antonio",
               "online": true
@@ -14,4 +12,3 @@
               "online": false
             }
       ]
-}
